@@ -1,0 +1,32 @@
+D:\contour_value_extractor\Plot Formularizer\Plot Formularizer\bin\Debug\Plot Formularizer.exe.config
+D:\contour_value_extractor\Plot Formularizer\Plot Formularizer\bin\Debug\Plot Formularizer.exe
+D:\contour_value_extractor\Plot Formularizer\Plot Formularizer\bin\Debug\Plot Formularizer.pdb
+D:\contour_value_extractor\Plot Formularizer\Plot Formularizer\obj\Debug\Plot Formularizer.csproj.AssemblyReference.cache
+D:\contour_value_extractor\Plot Formularizer\Plot Formularizer\obj\Debug\Plot Formularizer.csproj.SuggestedBindingRedirects.cache
+D:\contour_value_extractor\Plot Formularizer\Plot Formularizer\obj\Debug\MainWindow.baml
+D:\contour_value_extractor\Plot Formularizer\Plot Formularizer\obj\Debug\MainWindow.g.cs
+D:\contour_value_extractor\Plot Formularizer\Plot Formularizer\obj\Debug\App.g.cs
+D:\contour_value_extractor\Plot Formularizer\Plot Formularizer\obj\Debug\Plot Formularizer_MarkupCompile.cache
+D:\contour_value_extractor\Plot Formularizer\Plot Formularizer\obj\Debug\Plot Formularizer.g.resources
+D:\contour_value_extractor\Plot Formularizer\Plot Formularizer\obj\Debug\Plot_Formularizer.Properties.Resources.resources
+D:\contour_value_extractor\Plot Formularizer\Plot Formularizer\obj\Debug\Plot Formularizer.csproj.GenerateResource.cache
+D:\contour_value_extractor\Plot Formularizer\Plot Formularizer\obj\Debug\Plot Formularizer.csproj.CoreCompileInputs.cache
+D:\contour_value_extractor\Plot Formularizer\Plot Formularizer\obj\Debug\Plot Formularizer.exe
+D:\contour_value_extractor\Plot Formularizer\Plot Formularizer\obj\Debug\Plot Formularizer.pdb
+D:\contour_value_extractor\Plot Formularizer\Plot Formularizer\obj\Debug\Plot Formularizer.csproj.ResolveComReference.cache
+D:\contour_value_extractor\both\Plot Formularizer\Plot Formularizer\bin\Debug\Plot Formularizer.exe.config
+D:\contour_value_extractor\both\Plot Formularizer\Plot Formularizer\bin\Debug\Plot Formularizer.exe
+D:\contour_value_extractor\both\Plot Formularizer\Plot Formularizer\bin\Debug\Plot Formularizer.pdb
+D:\contour_value_extractor\both\Plot Formularizer\Plot Formularizer\obj\Debug\Plot Formularizer.csproj.AssemblyReference.cache
+D:\contour_value_extractor\both\Plot Formularizer\Plot Formularizer\obj\Debug\Plot Formularizer.csproj.SuggestedBindingRedirects.cache
+D:\contour_value_extractor\both\Plot Formularizer\Plot Formularizer\obj\Debug\Plot Formularizer.csproj.ResolveComReference.cache
+D:\contour_value_extractor\both\Plot Formularizer\Plot Formularizer\obj\Debug\MainWindow.baml
+D:\contour_value_extractor\both\Plot Formularizer\Plot Formularizer\obj\Debug\MainWindow.g.cs
+D:\contour_value_extractor\both\Plot Formularizer\Plot Formularizer\obj\Debug\App.g.cs
+D:\contour_value_extractor\both\Plot Formularizer\Plot Formularizer\obj\Debug\Plot Formularizer_MarkupCompile.cache
+D:\contour_value_extractor\both\Plot Formularizer\Plot Formularizer\obj\Debug\Plot Formularizer.g.resources
+D:\contour_value_extractor\both\Plot Formularizer\Plot Formularizer\obj\Debug\Plot_Formularizer.Properties.Resources.resources
+D:\contour_value_extractor\both\Plot Formularizer\Plot Formularizer\obj\Debug\Plot Formularizer.csproj.GenerateResource.cache
+D:\contour_value_extractor\both\Plot Formularizer\Plot Formularizer\obj\Debug\Plot Formularizer.csproj.CoreCompileInputs.cache
+D:\contour_value_extractor\both\Plot Formularizer\Plot Formularizer\obj\Debug\Plot Formularizer.exe
+D:\contour_value_extractor\both\Plot Formularizer\Plot Formularizer\obj\Debug\Plot Formularizer.pdb
